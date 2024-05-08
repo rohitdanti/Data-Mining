@@ -5,7 +5,8 @@ I comepleted the _CSE 572: Data Mining_ course at ASU. The course introduced fun
 
 This repo consists of all the labs and homeworks that I completed for the successful completion of the course.
 
-**_Labs_** - 
+**_Labs_**:
+
 Lab 1 - covers a review of python, numpy, and pandas fundamentals, functions, and syntax.
 
 Lab 2 - Covers topics from Data Exploration module.
