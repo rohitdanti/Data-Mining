@@ -23,4 +23,12 @@ Lab 7 - Covers a practice implementing the K-means clustering technique.
 
 Lab 8 - Contains a practice implementing techniques for dimensionality reduction using (Kernel) PCA and autoencoder neural networks.
 
-Lab 9 - Contains a practice implementing your first Deep Reinforcement Learning Algorithm (Reinforce) with PyTorch.
+Lab 9 - Contains a practice implementing your first Deep Reinforcement Learning Algorithm (Reinforce) with PyTorch. 
+
+**_Homeworks_**
+
+Homework 0 - This assignment was to test the basic prerequisite for this class
+
+Homework 1 - The goal of this assignment was to classify documents in a corpus. It invloved training a variety of tree-based models and evaluate each one using 5-fold cross-validation. Based on the best performing model, I ran inference on a test set and predicted the labels.
+
+Homework 2 - Similar to HW 1 but made use of other features for feature exploration. Features like TFIDF, word embeddings provided by other packages like GloVe with gensim, or BERT are implenented in this HW. Also used 5-fold cross-validation to evaluate the performance of the Neural Network.
